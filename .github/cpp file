@@ -5,5 +5,5 @@ int main()
 {
 cout<< "hello world.";
 
-retuen0;
+return0;
 }
