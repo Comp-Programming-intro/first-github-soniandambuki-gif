@@ -1,1 +1,10 @@
 
+//online c++ compiler
+#include <iostream>
+using namespace std;
+int main()
+{
+cout<< "hello world.";
+
+return0;
+}
